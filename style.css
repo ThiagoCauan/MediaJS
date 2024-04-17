@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#calc{
+    display: flex;
+    flex-direction: column;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #01f54e;
+    transition: 0.5s;
+    border-radius: 10px;
+}
